@@ -1,0 +1,1 @@
+import{nn as e}from"./useAppStore-V0b9GzS2.js";var t=e(`py-2 px-4 rounded-md`,`text-white`,`transition duration-300`,`cursor-pointer`,`ring-2 hover:ring-3 ring-white/50 hover:ring-white/70`);export{t};

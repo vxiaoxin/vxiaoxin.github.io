@@ -1,0 +1,1 @@
+var e={Good:`良好`,Unknown:`未知`};export{e as t};

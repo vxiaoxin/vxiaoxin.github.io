@@ -1,0 +1,1 @@
+var e={page:{title:`404`,subTitle:`The page you are trying to access does not exist!`,button:{backHome:`Back Home`}}};export{e as enUS};

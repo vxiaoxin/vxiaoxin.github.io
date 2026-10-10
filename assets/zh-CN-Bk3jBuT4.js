@@ -1,0 +1,1 @@
+var e={page:{description:`将当前灯塔的开放内容全部打包成压缩包，导入到你的灯塔中。`,needView:`你可能需要查看的文档：`,needViewDoc:{deployYourLighthouse:`部署你自己的灯塔`,unitedTrustedLighthouse:`与你认可的灯塔联合`},button:{download:`下载压缩包`}},message:{downloadFailed:`下载失败，请稍后重试`,downloadNoBackup:`还没有备份文件，请稍后再进行下载`}};export{e as zhCN};

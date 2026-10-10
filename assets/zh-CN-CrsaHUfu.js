@@ -1,0 +1,1 @@
+import{t as e}from"./zh-CN-UvTOvkbA.js";var t={shared:{common:e},search:{library:`图书集`,keyword:`关键词`,tag:`标签`,search:`搜索`,reset:`重置`,enterKeyword:`请输入关键词查询`,book:`书名`,catalog:`文档名`,libraryTag:`书库标签`,bookTag:`书籍标签`,catalogTag:`文档标签`,view:`查看`}};export{t as zhCN};

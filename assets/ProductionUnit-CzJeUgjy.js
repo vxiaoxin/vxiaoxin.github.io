@@ -1,0 +1,1 @@
+var e=[`Clothing`,`Food`,`Housing`,`Transportation`,`Medical`,`Education`,`Culture`,`Other`],t=[`Good`,`Unknown`];export{e as n,t};

@@ -1,0 +1,1 @@
+var e={Recruitment:`招聘`,Cooperation:`合作`};export{e as t};

@@ -1,0 +1,1 @@
+var e={bookNotFound:`Book not found`,backToLibrary:`Back to library`,catalog:`Contents`,totalArticles:`{count} articles in total`,recentlyViewed:`Recentlty Viewed`};export{e as enUS};

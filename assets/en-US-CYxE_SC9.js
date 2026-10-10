@@ -1,0 +1,1 @@
+var e={visit:`Visit`,noLink:`No Link`};export{e as t};

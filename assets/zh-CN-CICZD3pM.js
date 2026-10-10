@@ -1,0 +1,1 @@
+var e={bookNotFound:`书籍不存在`,backToLibrary:`返回书库页面`,catalog:`目录`,totalArticles:`共 {count} 篇`,recentlyViewed:`最近查看`};export{e as zhCN};

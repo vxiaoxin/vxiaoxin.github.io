@@ -1,0 +1,1 @@
+var e={Recruitment:`Recruitment`,Cooperation:`Cooperation`};export{e as t};

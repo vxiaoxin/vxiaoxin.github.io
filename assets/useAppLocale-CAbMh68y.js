@@ -1,0 +1,1 @@
+import{t as e}from"./useAppStore-V0b9GzS2.js";function t(){let{localeStore:t}=e(),{locale:n}=t;return n}export{t};

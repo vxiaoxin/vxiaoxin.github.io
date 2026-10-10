@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#e2e8f0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Lighthouse" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <script>
+      (function () {
+        try {
+          var theme = JSON.parse(localStorage.getItem("theme"));
+          var mode = theme && theme.mode;
+          if (mode === "dark" || mode === "light") {
+            document.documentElement.classList.add(mode);
+          }
+        } catch (e) {}
+      })();
+      (function () {
+        try {
+          var locale = JSON.parse(localStorage.getItem("lighthouse-locale"));
+          if (locale === "zh" || locale === "en") {
+            document.documentElement.lang = locale;
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <title>Lighthouse</title>
+    <script type="module" crossorigin src="/assets/index-ByiF24j0.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/useAppStore-V0b9GzS2.js">
+    <link rel="modulepreload" crossorigin href="/assets/QueryClientProvider-C8iJcUq9.js">
+    <link rel="modulepreload" crossorigin href="/assets/removable-DbDt7jIF.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-CYa7V5KV.css">
+  </head>
+  <body class="bg-slate-200 dark:bg-black text-zinc-900 dark:text-zinc-100">
+    <div id="root"></div>
+  </body>
+</html>

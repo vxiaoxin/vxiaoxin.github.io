@@ -1,0 +1,1 @@
+var e={page:{title:`当黑暗中屹立着无数的灯塔，那么我们的前路便是光明的。`,button:{use:`使用灯塔`,manage:`管理灯塔`,copy:`复制灯塔`}}};export{e as zhCN};

@@ -1,0 +1,1 @@
+var e={catalog:`Catalog`,outline:`Outline`,docNotFound:`Document not found`,backToCatalog:`Back to catalog`,prevDoc:`Previous`,nextDoc:`Next`};export{e as enUS};

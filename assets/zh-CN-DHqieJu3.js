@@ -1,0 +1,1 @@
+var e={visit:`查看`,noLink:`无链接`};export{e as t};

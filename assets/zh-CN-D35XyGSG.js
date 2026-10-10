@@ -1,0 +1,1 @@
+var e={page:{description:`开放的复制页面只能复制灯塔的开放内容。管理菜单中的复制会打包灯塔内的所有内容，比如灯塔的运维的文档、日常记录等等。`,button:{download:`下载压缩包`}},message:{downloadFailed:`下载失败，请稍后重试`,downloadNoBackup:`还没有备份文件，请稍后再进行下载`}};export{e as zhCN};

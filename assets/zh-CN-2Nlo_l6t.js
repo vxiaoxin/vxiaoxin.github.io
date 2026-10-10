@@ -1,0 +1,1 @@
+var e={catalog:`目录`,outline:`内容大纲`,docNotFound:`文档不存在`,backToCatalog:`返回目录页面`,prevDoc:`上一篇`,nextDoc:`下一篇`};export{e as zhCN};

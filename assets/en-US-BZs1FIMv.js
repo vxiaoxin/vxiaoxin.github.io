@@ -1,0 +1,1 @@
+import{t as e}from"./en-US-Co_K1-Q0.js";var t={shared:{common:e},search:{library:`Library`,keyword:`Keyword`,tag:`Tag`,search:`Search`,reset:`Reset`,enterKeyword:`Enter a keyword to search`,book:`Book`,catalog:`Document`,libraryTag:`Library tag`,bookTag:`Book tag`,catalogTag:`Document tag`,view:`View`}};export{t as enUS};

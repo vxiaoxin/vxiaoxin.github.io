@@ -1,0 +1,1 @@
+var e={Good:`Good`,Unknown:`Unknown`};export{e as t};

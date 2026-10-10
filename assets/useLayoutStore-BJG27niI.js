@@ -1,0 +1,1 @@
+import{On as e,Tn as t}from"./useAppStore-V0b9GzS2.js";import{t as n}from"./index-ByiF24j0.js";var r=e(t(),1);function i(){let e=(0,r.useContext)(n);if(!e)throw Error(`No wrap with LayoutContext`);return e}function a(){let{store:e}=i();return e}export{a as t};

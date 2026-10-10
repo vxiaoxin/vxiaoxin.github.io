@@ -1,0 +1,1 @@
+var e={page:{title:`When countless lighthouses stand tall in the darkness, the road ahead of us is bound to be bright.`,button:{use:`Use lighthouse`,manage:`Manage lighthouse`,copy:`Copy lighthouse`}}};export{e as enUS};

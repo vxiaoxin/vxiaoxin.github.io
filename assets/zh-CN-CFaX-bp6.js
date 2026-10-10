@@ -1,0 +1,1 @@
+var e={page:{title:`404`,subTitle:`你所访问的页面不存在!`,button:{backHome:`返回首页`}}};export{e as zhCN};
